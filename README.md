@@ -11,6 +11,3 @@ File Management System - Laravel / Vue.Js
 
 local route after setup(according to my config settings):
 http://127.0.0.1:8000/file-manager/fm-button
-
-Reference / 3rd party library / package used: 
-https://github.com/alexusmai/laravel-file-manager
